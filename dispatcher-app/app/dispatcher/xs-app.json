@@ -1,0 +1,15 @@
+{
+  "authenticationMethod": "none",
+  "welcomeFile": "index.html",
+  "routes": [
+    {
+      "source": "^/dispatcher",
+      "destination": "srv-api",
+      "csrfProtection": false
+    },
+    {
+      "source": "^/(.*)$",
+      "localDir": "dist"
+    }
+  ]
+}

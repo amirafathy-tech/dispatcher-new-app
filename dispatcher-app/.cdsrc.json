@@ -1,0 +1,29 @@
+{
+  "requires": {
+    "db": {
+      "kind": "sqlite",
+      "credentials": {
+        "database": ":memory:"
+      }
+    }
+  },
+  "[production]": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "credentials": {
+          "database": "./dispatcher.db"
+        }
+      },
+      "auth": "dummy"
+    }
+  },
+  "odata": {
+    "version": "v4"
+  },
+  "build": {
+    "tasks": [
+      { "for": "nodejs" }
+    ]
+  }
+}

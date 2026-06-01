@@ -1,0 +1,9 @@
+driverId,name,van,route,status,stops,done,lat,lng,phone,stockPct,sales,lastPing,initials,shift
+D-042,Ahmed Khalid,VAN-042,,idle,0,0,0.42,0.55,+966 50 412 ••••,100,0.00,now,AK,06:30-17:00
+D-038,Yusuf Al-Harbi,VAN-038,,idle,0,0,0.30,0.62,+966 53 117 ••••,100,0.00,now,YH,06:30-17:00
+D-051,Omar Saleh,VAN-051,,idle,0,0,0.50,0.30,+966 55 902 ••••,100,0.00,now,OS,07:00-17:30
+D-027,Khalid Mansour,VAN-027,,idle,0,0,0.65,0.40,+966 56 308 ••••,100,0.00,now,KM,06:00-16:30
+D-019,Faisal Al-Otaibi,VAN-019,,idle,0,0,0.20,0.30,+966 54 671 ••••,100,0.00,now,FO,06:30-17:00
+D-014,Saad Al-Dosari,VAN-014,,idle,0,0,0.78,0.20,+966 50 220 ••••,100,0.00,now,SD,07:00-17:30
+D-061,Bandar Al-Shehri,VAN-061,,idle,0,0,0.85,0.70,+966 53 558 ••••,100,0.00,now,BS,06:00-16:30
+D-007,Tariq Al-Ghamdi,VAN-007,,idle,0,0,0.55,0.78,+966 50 884 ••••,100,0.00,now,TG,06:30-17:00

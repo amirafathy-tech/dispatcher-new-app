@@ -1,0 +1,13 @@
+orderId,customer,code,priority,items,value,window,km,city,status,lat,lng
+SO-10421,Al-Manara Market,ORD-421,P-A,8,1240.50,08:00-10:00,4.2,Riyadh North,open,0.38,0.42
+SO-10422,Al-Rashid Stores,ORD-422,P-A,6,612.90,09:00-11:00,6.8,Riyadh Central,open,0.55,0.68
+SO-10423,Tamimi Markets,ORD-423,P-A,12,2180.00,08:30-10:30,3.5,Riyadh East,open,0.20,0.35
+SO-10424,Carrefour KSA,ORD-424,P-B,9,890.00,10:00-12:00,8.1,Riyadh West,open,0.72,0.58
+SO-10425,Panda Retail,ORD-425,P-B,5,450.00,10:30-12:30,5.6,Riyadh South,open,0.45,0.22
+SO-10426,Lulu Hypermarket,ORD-426,P-A,15,3250.00,08:00-10:00,12.3,Riyadh North,open,0.15,0.55
+SO-10427,Al-Othaim Markets,ORD-427,P-B,7,780.00,11:00-13:00,7.4,Riyadh Central,open,0.60,0.45
+SO-10428,Danube Market,ORD-428,P-C,4,320.00,12:00-14:00,9.2,Riyadh East,open,0.30,0.72
+SO-10429,Farm Superstores,ORD-429,P-B,11,1560.00,09:30-11:30,6.1,Riyadh West,open,0.82,0.38
+SO-10430,Hyper Panda,ORD-430,P-C,3,215.00,13:00-15:00,11.5,Riyadh South,open,0.48,0.82
+SO-10431,Al-Jazeera Markets,ORD-431,P-A,8,1890.00,08:00-10:00,4.8,Riyadh North,open,0.35,0.28
+SO-10432,Savola Group,ORD-432,P-C,6,540.00,14:00-16:00,13.7,Riyadh Central,open,0.68,0.60

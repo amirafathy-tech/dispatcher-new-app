@@ -1,0 +1,13 @@
+itemId,orderId,sku,name,qty,unitPrice,lineTotal
+1,SO-10422,SKU-001,Al-Marai Full Cream Milk 2L,24,8.50,204.00
+2,SO-10422,SKU-014,Nada Yogurt 500g,30,4.25,127.50
+3,SO-10422,SKU-028,Almarai Orange Juice 1L,20,14.07,281.40
+4,SO-10421,SKU-005,Almarai Butter 500g,12,22.50,270.00
+5,SO-10421,SKU-012,Nescafe Classic 200g,24,35.75,858.00
+6,SO-10421,SKU-033,Lipton Tea 100 bags,15,7.50,112.50
+7,SO-10423,SKU-041,Basmati Rice 5kg,18,45.00,810.00
+8,SO-10423,SKU-055,Sunflower Oil 1.8L,24,28.75,690.00
+9,SO-10423,SKU-067,Tomato Paste 400g,36,19.17,690.12
+10,SO-10426,SKU-002,Pepsi 330ml 24-pack,20,38.50,770.00
+11,SO-10426,SKU-008,Lays Chips Assorted 12-pack,30,32.00,960.00
+12,SO-10426,SKU-019,Kraft Cheese Slices 400g,25,61.60,1540.00

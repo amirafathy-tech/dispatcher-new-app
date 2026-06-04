@@ -2,6 +2,7 @@
   "name": "dispatcher-app",
   "version": "1.0.0",
   "dependencies": {
+    "@cap-js/postgres": "^2.3.0",
     "@cap-js/sqlite": "^2",
     "@sap/cds": "^9"
   },

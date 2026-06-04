@@ -10,10 +10,7 @@
   "[production]": {
     "requires": {
       "db": {
-        "kind": "sqlite",
-        "credentials": {
-          "database": "./dispatcher.db"
-        }
+        "kind": "postgres"
       },
       "auth": "dummy"
     }
@@ -23,7 +20,8 @@
   },
   "build": {
     "tasks": [
-      { "for": "nodejs" }
+      { "for": "nodejs" },
+      { "for": "postgres" }
     ]
   }
 }

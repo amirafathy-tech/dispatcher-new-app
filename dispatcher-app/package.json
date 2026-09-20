@@ -4,7 +4,8 @@
   "dependencies": {
     "@cap-js/postgres": "^2.3.0",
     "@cap-js/sqlite": "^2",
-    "@sap/cds": "^9"
+    "@sap/cds": "^9",
+    "patch-package": "^8.0.1"
   },
   "devDependencies": {
     "@cap-js/hana": "^2",
@@ -14,7 +15,8 @@
     "start": "cds-serve",
     "dev": "cds watch",
     "ui": "cd app/dispatcher && npm run dev",
-    "build:ui": "cd app/dispatcher && npm run build"
+    "build:ui": "cd app/dispatcher && npm run build",
+    "postinstall": "patch-package"
   },
   "private": true
 }

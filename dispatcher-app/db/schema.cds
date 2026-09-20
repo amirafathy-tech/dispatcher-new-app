@@ -58,6 +58,7 @@ entity OrderItems {
   orderId       : String(20);
   sku           : String(20);
   name          : String(100);
+  category      : String(50);
   qty           : Integer;
   unitPrice     : Decimal(10, 2);
   lineTotal     : Decimal(10, 2);

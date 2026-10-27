@@ -1,8 +1,8 @@
-diff --git a/node_modules/@sap/cds-dk/lib/watch/vite-watch.js b/node_modules/@sap/cds-dk/lib/watch/vite-watch.js
-index ed1320a..9c9f117 100644
---- a/node_modules/@sap/cds-dk/lib/watch/vite-watch.js
-+++ b/node_modules/@sap/cds-dk/lib/watch/vite-watch.js
-@@ -30,7 +30,8 @@ async function findViteApps() {
+diff --git a/node_modules/@sap/cds-dk/bin/watch/vite-watch.js b/node_modules/@sap/cds-dk/bin/watch/vite-watch.js
+index 98ff192..cb9f581 100644
+--- a/node_modules/@sap/cds-dk/bin/watch/vite-watch.js
++++ b/node_modules/@sap/cds-dk/bin/watch/vite-watch.js
+@@ -37,7 +37,8 @@ async function findViteApps() {
  async function loadCreateServer(fromPath) {
    try {
        const vitePath = require.resolve('vite', { paths: [fromPath] })
